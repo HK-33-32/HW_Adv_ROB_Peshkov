@@ -1,0 +1,4 @@
+Map,A* length,A* time (s),A* expanded,RRT* length,RRT* time (s),RRT* nodes,Smoothed length
+Simple Map,270.96,0.1328,15000,267.18,0.0361,267,261.24
+Maze Map,311.97,0.21,21497,328.27,0.0189,146,310.18
+Narrow Corridors,324.85,0.1831,19232,323.67,0.0562,221,308.06
