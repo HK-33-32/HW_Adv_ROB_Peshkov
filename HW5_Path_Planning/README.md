@@ -16,9 +16,9 @@
 
 **Визуализация траекторий на всех картах:**
 
-![Simple Map paths](results/Simple Map_paths.png)  
-![Maze Map paths](results/Maze Map_paths.png)  
-![Narrow Corridors paths](results/Narrow Corridors_paths.png)
+![Simple Map paths](results/Simple_Map_paths.png)  
+![Maze Map paths](results/Maze_Map_paths.png)  
+![Narrow Corridors paths](results/Narrow_Corridors_paths.png)
 
 **Сравнение по метрикам**
 
