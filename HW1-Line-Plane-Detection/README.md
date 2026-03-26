@@ -8,6 +8,8 @@
 **1.2 Ground Detection (RANSAC)**  
 Выделить плоскость пола из 3D облака точек.
 
+Полное задание приведено в файле: [S26_AR_HW1_Hough_line_detector_RANSAC_plane_detector](S26_AR_HW1_Hough_line_detector_RANSAC_plane_detector.pdf)
+
 ## Как решено
 
 * **Задача 1.1**:  
